@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CSS"
+    "\\css",
+    "\\css\\imported.css",
+    "\\images"
   ],
-  "SelectedNode": "\\CSS\\styles.css",
+  "SelectedNode": "\\css\\styles.css",
   "PreviewInSolutionExplorer": false
 }
