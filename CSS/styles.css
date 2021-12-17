@@ -99,3 +99,18 @@ ul {
     align-items: center;
     justify-content: center;
 } 
+
+.billsflix-title {
+    margin-top: 2em;
+    font-size: 4rem;
+    font-weight: 700;
+   }
+   .billsflix-subtitle {
+    font-size: 1.2rem;
+   }
+   .flex-left {
+    align-self: flex-start;
+    text-align: left;
+   } 
+
+   
